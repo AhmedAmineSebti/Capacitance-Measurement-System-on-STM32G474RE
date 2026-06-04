@@ -81,9 +81,9 @@ C = Td / ( R · ln(2) )
 
 ## Diagram
 
-![Capacitance measurement concept](docs/concept.jpg)
+> **Note:** If the image does not render, ensure the file exists in the repository and the path below matches it exactly (case-sensitive).
 
-> If `docs/concept.jpg` does not exist yet, add the provided image to that path (recommended), or update the path above to match your repository.
+![Capacitance measurement concept](concept.jpg)
 
 ## Typical workflow
 
